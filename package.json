@@ -1,0 +1,29 @@
+{
+  "name": "golf-ar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATechAdventurer/Golf-AR.git"
+  },
+  "keywords": [
+    "unity",
+    "golf",
+    "socket.io",
+    "chillenium"
+  ],
+  "author": "Cameron Steele (ATechAdventurer)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATechAdventurer/Golf-AR/issues"
+  },
+  "homepage": "https://github.com/ATechAdventurer/Golf-AR#readme",
+  "dependencies": {
+    "@types/socket.io": "^1.4.38",
+    "socket.io": "^2.1.1"
+  }
+}
